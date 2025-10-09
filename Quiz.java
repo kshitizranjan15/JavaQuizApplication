@@ -134,3 +134,4 @@ public class Quiz extends JFrame implements ActionListener{
 		new Quiz("Java Test");
 	}
 }
+// This quiz application can be enhanced more.
