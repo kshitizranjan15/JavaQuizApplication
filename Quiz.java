@@ -135,3 +135,4 @@ public class Quiz extends JFrame implements ActionListener{
 	}
 }
 // This quiz application can be enhanced more.
+// Apart from radio select buttons we should provide maulti select option also.
